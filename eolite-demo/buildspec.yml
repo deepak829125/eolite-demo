@@ -1,0 +1,8 @@
+version: 1.0
+
+phases:
+ build:
+  commands:
+  - dotnet restore eolite-demo.sln
+  - dotnet build eolite-demo.sln
+  
