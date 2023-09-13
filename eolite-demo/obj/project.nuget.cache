@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2VvKfrmfDb4gbO6JHV06X2Hx/QqqESW8MU7wKt8EPgET2Y5YHQX2TAzi+7smLDlZKyL3Ty/WswrpfwlESizlYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\eolite-demo\\eolite-demo\\eolite-demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512"
+  ],
+  "logs": []
+}
